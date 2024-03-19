@@ -18,7 +18,7 @@
 * Extract the `treatment` of each patient
 
 ### Solution
-Leverage LLMs to systematically extract patients information, employing various prompt engineering techniques to enhance accuracy and reliability.
+Utilize Large Language Models (LLMs) and Q-lora for executing extensive-parameter models, methodically extracting patient information with advanced prompt engineering to optimize accuracy and reliability.
 
 ### Pipeline
 * Step 1: Libraries
@@ -30,7 +30,7 @@ Leverage LLMs to systematically extract patients information, employing various 
 * Step 7: Data Visualization
 
 ### Data Cleansing
->Utilize Large Language Models (LLMs) and Q-lora for executing extensive-parameter models, methodically extracting patient information with advanced prompt engineering to optimize accuracy and reliability.
+>There are plenty of different formats in the first extracted data from LLM. Hence, I attemptted to use regular expression to convert the data into Correct format and Extra suffix condition.
 
 * Correct format (what we expect most)
     - `22-year-old`
