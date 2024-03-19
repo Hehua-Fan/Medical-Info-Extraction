@@ -3,7 +3,7 @@
 >Note: The final extracted result is `result.csv`
 
 ### Environment
-* A100/T4 - Google Colab Pro
+* A100/T4 GPU - Google Colab Pro
 * Macbook M1
 
 ### Data
