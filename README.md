@@ -103,7 +103,7 @@ The unique value count of before and after data cleaning.
 |               Model                | Performance |   Comment  |
 | :--------------------------------: | :---------: | :--------: |
 |         Geogle/gemini-pro          |   Descent   |   Good Extraction, if the description don't have the exact treatment, return not found     |
-|     Anthropic/Claude-3-sonnet      |   Creative    |   Good Extraction, if the description don't have the exact treatment, it will give some advice base on the given illness      |
+|     Anthropic/Claude-3-sonnet      |   Creative    |   Good Extraction, if the description don't have the exact treatment, it will give some advice based on the given illness      |
 |         THUDM/chatglm3-6b          |  Unstable   |  Sometimes got good extraction, sometimes not    |
 | mistralai/Mistral-7B-Instruct-v0.1 |  Unstable   |  Sometimes got good extraction, sometimes not    |
 |            openai/GPT2             |     Bad     |      -      |
