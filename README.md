@@ -89,7 +89,7 @@ Leverage LLMs to systematically extract patients information, employing various 
 
 There are 2169 `not found` and 75 `unknown`.
 <center>
-<img src='img1.png' width=80%></img>
+<img src='img1.png' width=60%></img>
 </center>
 
 The unique value count of before and after data cleaning.
