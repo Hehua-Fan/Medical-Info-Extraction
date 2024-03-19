@@ -18,7 +18,7 @@
 * Extract the `treatment` of each patient
 
 ### Solution
-Utilize Large Language Models (LLMs) and Q-lora for executing extensive-parameter models, methodically extracting patient information with advanced prompt engineering to optimize accuracy and reliability.
+Utilize Large Language Models (LLMs) and Q-LoRA for executing extensive-parameter models, methodically extracting patient information with advanced prompt engineering to optimize accuracy and reliability.
 
 ### Pipeline
 * Step 1: Libraries
