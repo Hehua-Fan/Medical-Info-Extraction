@@ -2,6 +2,10 @@
 
 >Note: The final extracted result is `result.csv`
 
+### Environment
+* A100/T4 - Google Colab Pro
+* Macbook M1
+
 ### Data
 * `description`: Short description of transcription
 * `medical_specialty`: Medical specialty classification of transcription
