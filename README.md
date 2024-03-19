@@ -87,10 +87,16 @@ Leverage LLMs to systematically extract patients information, employing various 
     - `11-1/2`
     - `4-1/2`
 
+There are 2169 `not found` and 75 `unknown`.
+<center>
+<img src='img1.png' width=80%></img>
+</center>
+
 The unique value count of before and after data cleaning.
 <center>
-<img src='img.png' width=80%></img>
+<img src='img2.png' width=80%></img>
 </center>
+
 
 ### Model Selection
 
